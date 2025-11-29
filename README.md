@@ -6,14 +6,9 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 [![MLflow](https://img.shields.io/badge/MLflow-Tracking-orange.svg)](https://mlflow.org/)
 [![Supabase](https://img.shields.io/badge/Supabase-Database-green.svg)](https://supabase.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-success" />
-  <img src="https://img.shields.io/badge/Code%20Lines-14K+-blue" />
-  <img src="https://img.shields.io/badge/Modules-26-purple" />
-  <img src="https://img.shields.io/badge/AI%20Models-Multi--LLM-red" />
-</div>
+<img src="https://img.shields.io/badge/Code%20Lines-14K+-blue" />
+<img src="https://img.shields.io/badge/Modules-26-purple" />
+<img src="https://img.shields.io/badge/AI%20Models-Multi--LLM-red" />
 
 ---
 
