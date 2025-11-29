@@ -1,0 +1,15 @@
+# ignore big models and data
+src/data/models/
+src/data/raw/
+src/data/graphs/
+
+# model files
+*.pt
+*.h5
+*.joblib
+*.zip
+
+# env and cache
+.env
+__pycache__/
+*.pyc
